@@ -24,3 +24,9 @@ This project implements **Stochastic Gradient Descent (SGD)** in Python from fir
 1. Clone this repository:
    ```bash
    git clone https://github.com/rahiqraees/Stochastic-GD.git
+   
+2. Open the notebook:
+   jupyter notebook sgd.ipynb
+
+3. Run all cells to view the algorithm implementation, explanations, and results.
+
